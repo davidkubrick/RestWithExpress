@@ -1,6 +1,6 @@
-#### Intruccion para iniciar el proyecto
+#### Intrucciones para iniciar el proyecto
 
-Ejecutar el comando siguiete comando
+Ejecutar el siguiente comando
 
 ```
 npm install
